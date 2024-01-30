@@ -35,6 +35,9 @@ parts:
       - fdisk
       - gdisk
       - fakeroot
+      - apt
+      - dpkg
+      - arch-test
       - mmdebstrap
       - gpg
       - germinate
